@@ -7,10 +7,6 @@ This GitHub repository provides an implementation of the paper "**MAGNET**: Mult
 You can refer [paper](https://arxiv.org/abs/2003.11644).
 
 
-If you are unable to render Notebook on github, then alternatively,you can view it [here](https://nbviewer.org/github/akash18tripathi/Clustering-Exploration-on-Fashion-MNIST/blob/main/Clustering%20Exploration.ipynb)
-
-
-
 # MAGNET-Architecture
 
 The architecture can be broken down into 3 parts:
@@ -108,7 +104,12 @@ Before training the MAGNET model, the label vector representations (through embe
 
 
 ![Before](artifacts/before.png)
+
+*Figure 1: Label Embeddings before*
+
 ![After](artifacts/after.png)
+
+*Figure 2: Label Embeddings after*
 
 ## Trained Adjacency Matrix
 
