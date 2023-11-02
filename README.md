@@ -1,4 +1,4 @@
-# MAGNET-Multi-Label-Text-Classi-cation-using-Attention-based-Graph-Neural-Network
+# MAGNET-Multi-Label-Text-Classification-using-Attention-based-Graph-Neural-Network
 
 ## Description
 
